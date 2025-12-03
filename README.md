@@ -5,7 +5,7 @@
 ## 🌟 Demo en línea
 
 Accede a la aplicación aquí:  
-[https://mifestival.web.app](https://mifestival.web.app/)
+[https://mifestival.web.app]
 
 ---
 
