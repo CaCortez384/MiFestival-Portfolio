@@ -78,6 +78,18 @@ Accede a la aplicación aquí:
 
 ---
 
+## 🛠️ Instalación y Configuración
+
+Este proyecto utiliza Firebase. Para ejecutarlo localmente:
+
+1. Clona el repositorio.
+2. Instala dependencias: `npm install`
+3. Crea un archivo `.env` en la raíz basándote en `.env.example`.
+4. Ingresa tus propias credenciales de Firebase en el archivo `.env`.
+5. Ejecuta el servidor de desarrollo: `npm run dev`
+
+---
+
 ## Sobre el proyecto
 
 MiFestival fue desarrollado como parte de mi portafolio profesional para demostrar habilidades en desarrollo frontend, experiencia de usuario y trabajo con servicios en la nube. El proyecto pone énfasis en la usabilidad, el diseño visual y la adaptabilidad a distintos dispositivos.
@@ -88,28 +100,6 @@ MiFestival fue desarrollado como parte de mi portafolio profesional para demostr
 
 ¿Te gustaría saber más sobre este proyecto o colaborar?  
 Puedes contactarme a través de [ca.cortez384@gmail.com](mailto:ca.cortez384@gmail.com) o visitar mi [LinkedIn](https://www.linkedin.com/in/carlos-cortez-castañeda-266546324).
-
----
-
-**© 2024 MiFestival · Creado por Carlos Cortez Castañeda**).
-2. Agrega tus artistas favoritos o selecciona de la lista.
-3. Asigna cada artista a un día y escenario.
-4. Personaliza el nombre del festival y el fondo del póster.
-5. Descarga o comparte tu póster final.
-
----
-
-## Sobre el proyecto
-
-MiFestival fue desarrollado como parte de mi portafolio profesional para demostrar habilidades en desarrollo frontend, experiencia de usuario y trabajo con servicios en la nube. El proyecto pone énfasis en la usabilidad, el diseño visual y la adaptabilidad a distintos dispositivos.
-
----
-
-## Contacto
-
-¿Te gustaría saber más sobre este proyecto o colaborar?  
-Puedes contactarme a través de [ca.cortez384@gmail.com] o visitar mi [LinkedIn](www.linkedin.com/in/carlos-cortez-castañeda-266546324).
-
 
 ---
 
